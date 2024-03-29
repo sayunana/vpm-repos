@@ -17,7 +17,7 @@
             "licensesUrl": "https://github.com/sayunana/lilToon2MToon?tab=MIT-1-ov-file#readme",
             "license": "MIT",
             "url" : "https://github.com/sayunana/lilToon2MToon/releases/download/0.1.0/com.github.sayunana.liltoon2mtoon.0.1.0.zip?",
-            "repo" : "https://sayunana.github.io/vpm-repos/vpm.json",
+            "repo" : "https://sayunana.github.io/vpm-repos/lilToon2MToon.json",
             "legacyFolders" : {
               "Assets\\lilToon" : "5530bf508400118478490709ab628891"
             }

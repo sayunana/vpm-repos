@@ -4,7 +4,7 @@
     "author": "sayunana",
     "url": "https://sayunana.github.io/vpm-repos/lilToon2MToon.json",
     "packages": {
-      "jp.sayunana.lilToon2MToon": {
+      "com.github.sayunana.liltoon2mtoon": {
         "versions": {
           "0.1.0": {
             "name": "com.github.sayunana.liltoon2mtoon",
